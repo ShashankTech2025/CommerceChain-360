@@ -1,0 +1,24 @@
+{
+  "insights": [
+    {
+      "type": "logistics_csat",
+      "title": "Delivery Delay Sentiment Impact",
+      "message": "On-time deliveries average 4.29 stars, whereas late deliveries drop to 2.57 stars (-1.73 star penalty). Keeping delays under 5% is the primary lever to boost CSAT."
+    },
+    {
+      "type": "retention",
+      "title": "Customer Retention Opportunity",
+      "message": "Current repeat customer rate is 3.12%. 96.88% of buyers purchase only once. Implementing post-purchase engagement and replenishment reminders represents a major revenue expansion opportunity."
+    },
+    {
+      "type": "category_leader",
+      "title": "Category Leadership",
+      "message": "'Health Beauty' is the highest revenue contributor at R$ 1,258,681.34 (9.3% of total platform GMV), followed closely by Watches & Gifts."
+    },
+    {
+      "type": "geographic",
+      "title": "Geographic Demand Concentration",
+      "message": "S\u00e3o Paulo (SP) represents 42.0% of total order volume (41,746 orders), driving rapid average delivery times of 8.3 days compared to the national average of 12.5 days."
+    }
+  ]
+}

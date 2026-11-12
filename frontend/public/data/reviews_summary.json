@@ -1,0 +1,164 @@
+{
+  "rating_distribution": [
+    {
+      "stars": 1,
+      "count": 11424,
+      "percentage": 11.51
+    },
+    {
+      "stars": 2,
+      "count": 3151,
+      "percentage": 3.18
+    },
+    {
+      "stars": 3,
+      "count": 8179,
+      "percentage": 8.24
+    },
+    {
+      "stars": 4,
+      "count": 19142,
+      "percentage": 19.29
+    },
+    {
+      "stars": 5,
+      "count": 57328,
+      "percentage": 57.78
+    }
+  ],
+  "monthly_csat": [
+    {
+      "month": "2016-10",
+      "avg_score": 4.06,
+      "total_reviews": 179
+    },
+    {
+      "month": "2016-11",
+      "avg_score": 3.19,
+      "total_reviews": 101
+    },
+    {
+      "month": "2016-12",
+      "avg_score": 2.36,
+      "total_reviews": 45
+    },
+    {
+      "month": "2017-01",
+      "avg_score": 4.34,
+      "total_reviews": 239
+    },
+    {
+      "month": "2017-02",
+      "avg_score": 4.28,
+      "total_reviews": 1413
+    },
+    {
+      "month": "2017-03",
+      "avg_score": 4.03,
+      "total_reviews": 2481
+    },
+    {
+      "month": "2017-04",
+      "avg_score": 4.04,
+      "total_reviews": 2055
+    },
+    {
+      "month": "2017-05",
+      "avg_score": 4.1,
+      "total_reviews": 3710
+    },
+    {
+      "month": "2017-06",
+      "avg_score": 4.13,
+      "total_reviews": 3440
+    },
+    {
+      "month": "2017-07",
+      "avg_score": 4.18,
+      "total_reviews": 3503
+    },
+    {
+      "month": "2017-08",
+      "avg_score": 4.22,
+      "total_reviews": 4503
+    },
+    {
+      "month": "2017-09",
+      "avg_score": 4.18,
+      "total_reviews": 4199
+    },
+    {
+      "month": "2017-10",
+      "avg_score": 4.18,
+      "total_reviews": 4424
+    },
+    {
+      "month": "2017-11",
+      "avg_score": 4.11,
+      "total_reviews": 4786
+    },
+    {
+      "month": "2017-12",
+      "avg_score": 3.93,
+      "total_reviews": 7982
+    },
+    {
+      "month": "2018-01",
+      "avg_score": 4.06,
+      "total_reviews": 6179
+    },
+    {
+      "month": "2018-02",
+      "avg_score": 4.01,
+      "total_reviews": 6101
+    },
+    {
+      "month": "2018-03",
+      "avg_score": 3.73,
+      "total_reviews": 7803
+    },
+    {
+      "month": "2018-04",
+      "avg_score": 3.92,
+      "total_reviews": 7287
+    },
+    {
+      "month": "2018-05",
+      "avg_score": 4.19,
+      "total_reviews": 7458
+    },
+    {
+      "month": "2018-06",
+      "avg_score": 4.2,
+      "total_reviews": 6715
+    },
+    {
+      "month": "2018-07",
+      "avg_score": 4.29,
+      "total_reviews": 5634
+    },
+    {
+      "month": "2018-08",
+      "avg_score": 4.21,
+      "total_reviews": 8987
+    }
+  ],
+  "delivery_csat_correlation": {
+    "Delivered (No SLA Date)": {
+      "avg_score": 4.5,
+      "reviews": 8
+    },
+    "Late": {
+      "avg_score": 2.57,
+      "reviews": 7700
+    },
+    "On Time / Early": {
+      "avg_score": 4.29,
+      "reviews": 88653
+    },
+    "Undelivered": {
+      "avg_score": 1.75,
+      "reviews": 2863
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "unique_customers": 96096,
+  "repeat_customers": 2997,
+  "one_time_customers": 93099,
+  "repeat_customer_rate_pct": 3.12,
+  "one_time_customer_rate_pct": 96.88,
+  "average_customer_spend": 141.44,
+  "average_orders_per_customer": 1.03
+}

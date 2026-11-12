@@ -1,0 +1,12 @@
+{
+  "total_freight": 2251909.54,
+  "average_freight_per_order": 22.65,
+  "average_delivery_days": 12.6,
+  "average_estimated_delivery_days": 23.8,
+  "average_delivery_delay_days": -11.2,
+  "delivered_with_dates": 96470,
+  "ontime_orders": 88644,
+  "late_orders": 7826,
+  "on_time_delivery_rate_pct": 91.89,
+  "late_delivery_rate_pct": 8.11
+}

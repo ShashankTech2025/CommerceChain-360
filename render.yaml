@@ -2,6 +2,7 @@ services:
   - type: web
     name: commercechain-360-api
     runtime: python
+    plan: free
     buildCommand: pip install -r backend/requirements.txt
     startCommand: python -m uvicorn app.main:app --app-dir backend --host 0.0.0.0 --port $PORT
     envVars:
@@ -10,5 +11,4 @@ services:
       - key: DEBUG
         value: "False"
       - key: CORS_ORIGINS
-        value: "https://commercechain-360.vercel.app,http://localhost:5173"
-
+        value: "https://commercechain-360.pages.dev,https://commercechain-360.vercel.app,http://localhost:5173"

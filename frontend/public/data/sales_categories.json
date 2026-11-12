@@ -1,0 +1,948 @@
+{
+  "top_10": [
+    {
+      "category": "Health Beauty",
+      "gross_item_sales": 1258681.34,
+      "units_sold": 9670,
+      "total_freight": 182566.73,
+      "average_item_price": 130.16,
+      "freight_to_price_ratio_pct": 14.5,
+      "sales_share_pct": 9.26,
+      "cumulative_share_pct": 9.26
+    },
+    {
+      "category": "Watches Gifts",
+      "gross_item_sales": 1205005.68,
+      "units_sold": 5991,
+      "total_freight": 100535.93,
+      "average_item_price": 201.14,
+      "freight_to_price_ratio_pct": 8.34,
+      "sales_share_pct": 8.87,
+      "cumulative_share_pct": 18.13
+    },
+    {
+      "category": "Bed Bath Table",
+      "gross_item_sales": 1036988.68,
+      "units_sold": 11115,
+      "total_freight": 204693.04,
+      "average_item_price": 93.3,
+      "freight_to_price_ratio_pct": 19.74,
+      "sales_share_pct": 7.63,
+      "cumulative_share_pct": 25.76
+    },
+    {
+      "category": "Sports Leisure",
+      "gross_item_sales": 988048.97,
+      "units_sold": 8641,
+      "total_freight": 168607.51,
+      "average_item_price": 114.34,
+      "freight_to_price_ratio_pct": 17.06,
+      "sales_share_pct": 7.27,
+      "cumulative_share_pct": 33.03
+    },
+    {
+      "category": "Computers Accessories",
+      "gross_item_sales": 911954.32,
+      "units_sold": 7827,
+      "total_freight": 147318.08,
+      "average_item_price": 116.51,
+      "freight_to_price_ratio_pct": 16.15,
+      "sales_share_pct": 6.71,
+      "cumulative_share_pct": 39.74
+    },
+    {
+      "category": "Furniture Decor",
+      "gross_item_sales": 729762.49,
+      "units_sold": 8334,
+      "total_freight": 172749.3,
+      "average_item_price": 87.56,
+      "freight_to_price_ratio_pct": 23.67,
+      "sales_share_pct": 5.37,
+      "cumulative_share_pct": 45.1
+    },
+    {
+      "category": "Cool Stuff",
+      "gross_item_sales": 635290.85,
+      "units_sold": 3796,
+      "total_freight": 84039.1,
+      "average_item_price": 167.36,
+      "freight_to_price_ratio_pct": 13.23,
+      "sales_share_pct": 4.67,
+      "cumulative_share_pct": 49.78
+    },
+    {
+      "category": "Housewares",
+      "gross_item_sales": 632248.66,
+      "units_sold": 6964,
+      "total_freight": 146149.11,
+      "average_item_price": 90.79,
+      "freight_to_price_ratio_pct": 23.12,
+      "sales_share_pct": 4.65,
+      "cumulative_share_pct": 54.43
+    },
+    {
+      "category": "Auto",
+      "gross_item_sales": 592720.11,
+      "units_sold": 4235,
+      "total_freight": 92664.21,
+      "average_item_price": 139.96,
+      "freight_to_price_ratio_pct": 15.63,
+      "sales_share_pct": 4.36,
+      "cumulative_share_pct": 58.79
+    },
+    {
+      "category": "Garden Tools",
+      "gross_item_sales": 485256.46,
+      "units_sold": 4347,
+      "total_freight": 98962.75,
+      "average_item_price": 111.63,
+      "freight_to_price_ratio_pct": 20.39,
+      "sales_share_pct": 3.57,
+      "cumulative_share_pct": 62.36
+    }
+  ],
+  "bottom_10": [
+    {
+      "category": "Security And Services",
+      "gross_item_sales": 283.29,
+      "units_sold": 2,
+      "total_freight": 41.22,
+      "average_item_price": 141.64,
+      "freight_to_price_ratio_pct": 14.55,
+      "sales_share_pct": 0.0,
+      "cumulative_share_pct": 100.0
+    },
+    {
+      "category": "Fashion Childrens Clothes",
+      "gross_item_sales": 569.85,
+      "units_sold": 8,
+      "total_freight": 95.51,
+      "average_item_price": 71.23,
+      "freight_to_price_ratio_pct": 16.76,
+      "sales_share_pct": 0.0,
+      "cumulative_share_pct": 100.0
+    },
+    {
+      "category": "Cds Dvds Musicals",
+      "gross_item_sales": 730.0,
+      "units_sold": 14,
+      "total_freight": 224.99,
+      "average_item_price": 52.14,
+      "freight_to_price_ratio_pct": 30.82,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.99
+    },
+    {
+      "category": "Home Comfort 2",
+      "gross_item_sales": 760.27,
+      "units_sold": 30,
+      "total_freight": 410.31,
+      "average_item_price": 25.34,
+      "freight_to_price_ratio_pct": 53.97,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.99
+    },
+    {
+      "category": "Flowers",
+      "gross_item_sales": 1110.04,
+      "units_sold": 33,
+      "total_freight": 488.87,
+      "average_item_price": 33.64,
+      "freight_to_price_ratio_pct": 44.04,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.98
+    },
+    {
+      "category": "PC Gamer",
+      "gross_item_sales": 1545.95,
+      "units_sold": 9,
+      "total_freight": 133.57,
+      "average_item_price": 171.77,
+      "freight_to_price_ratio_pct": 8.64,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.97
+    },
+    {
+      "category": "Diapers And Hygiene",
+      "gross_item_sales": 1567.59,
+      "units_sold": 39,
+      "total_freight": 573.68,
+      "average_item_price": 40.19,
+      "freight_to_price_ratio_pct": 36.6,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.96
+    },
+    {
+      "category": "Arts And Craftmanship",
+      "gross_item_sales": 1814.01,
+      "units_sold": 24,
+      "total_freight": 370.13,
+      "average_item_price": 75.58,
+      "freight_to_price_ratio_pct": 20.4,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.95
+    },
+    {
+      "category": "La Cuisine",
+      "gross_item_sales": 2054.99,
+      "units_sold": 14,
+      "total_freight": 333.55,
+      "average_item_price": 146.78,
+      "freight_to_price_ratio_pct": 16.23,
+      "sales_share_pct": 0.02,
+      "cumulative_share_pct": 99.94
+    },
+    {
+      "category": "Fashion Sport",
+      "gross_item_sales": 2119.51,
+      "units_sold": 30,
+      "total_freight": 578.13,
+      "average_item_price": 70.65,
+      "freight_to_price_ratio_pct": 27.28,
+      "sales_share_pct": 0.02,
+      "cumulative_share_pct": 99.92
+    }
+  ],
+  "all_categories": [
+    {
+      "category": "Health Beauty",
+      "gross_item_sales": 1258681.34,
+      "units_sold": 9670,
+      "total_freight": 182566.73,
+      "average_item_price": 130.16,
+      "freight_to_price_ratio_pct": 14.5,
+      "sales_share_pct": 9.26,
+      "cumulative_share_pct": 9.26
+    },
+    {
+      "category": "Watches Gifts",
+      "gross_item_sales": 1205005.68,
+      "units_sold": 5991,
+      "total_freight": 100535.93,
+      "average_item_price": 201.14,
+      "freight_to_price_ratio_pct": 8.34,
+      "sales_share_pct": 8.87,
+      "cumulative_share_pct": 18.13
+    },
+    {
+      "category": "Bed Bath Table",
+      "gross_item_sales": 1036988.68,
+      "units_sold": 11115,
+      "total_freight": 204693.04,
+      "average_item_price": 93.3,
+      "freight_to_price_ratio_pct": 19.74,
+      "sales_share_pct": 7.63,
+      "cumulative_share_pct": 25.76
+    },
+    {
+      "category": "Sports Leisure",
+      "gross_item_sales": 988048.97,
+      "units_sold": 8641,
+      "total_freight": 168607.51,
+      "average_item_price": 114.34,
+      "freight_to_price_ratio_pct": 17.06,
+      "sales_share_pct": 7.27,
+      "cumulative_share_pct": 33.03
+    },
+    {
+      "category": "Computers Accessories",
+      "gross_item_sales": 911954.32,
+      "units_sold": 7827,
+      "total_freight": 147318.08,
+      "average_item_price": 116.51,
+      "freight_to_price_ratio_pct": 16.15,
+      "sales_share_pct": 6.71,
+      "cumulative_share_pct": 39.74
+    },
+    {
+      "category": "Furniture Decor",
+      "gross_item_sales": 729762.49,
+      "units_sold": 8334,
+      "total_freight": 172749.3,
+      "average_item_price": 87.56,
+      "freight_to_price_ratio_pct": 23.67,
+      "sales_share_pct": 5.37,
+      "cumulative_share_pct": 45.1
+    },
+    {
+      "category": "Cool Stuff",
+      "gross_item_sales": 635290.85,
+      "units_sold": 3796,
+      "total_freight": 84039.1,
+      "average_item_price": 167.36,
+      "freight_to_price_ratio_pct": 13.23,
+      "sales_share_pct": 4.67,
+      "cumulative_share_pct": 49.78
+    },
+    {
+      "category": "Housewares",
+      "gross_item_sales": 632248.66,
+      "units_sold": 6964,
+      "total_freight": 146149.11,
+      "average_item_price": 90.79,
+      "freight_to_price_ratio_pct": 23.12,
+      "sales_share_pct": 4.65,
+      "cumulative_share_pct": 54.43
+    },
+    {
+      "category": "Auto",
+      "gross_item_sales": 592720.11,
+      "units_sold": 4235,
+      "total_freight": 92664.21,
+      "average_item_price": 139.96,
+      "freight_to_price_ratio_pct": 15.63,
+      "sales_share_pct": 4.36,
+      "cumulative_share_pct": 58.79
+    },
+    {
+      "category": "Garden Tools",
+      "gross_item_sales": 485256.46,
+      "units_sold": 4347,
+      "total_freight": 98962.75,
+      "average_item_price": 111.63,
+      "freight_to_price_ratio_pct": 20.39,
+      "sales_share_pct": 3.57,
+      "cumulative_share_pct": 62.36
+    },
+    {
+      "category": "Toys",
+      "gross_item_sales": 483946.6,
+      "units_sold": 4117,
+      "total_freight": 77425.95,
+      "average_item_price": 117.55,
+      "freight_to_price_ratio_pct": 16.0,
+      "sales_share_pct": 3.56,
+      "cumulative_share_pct": 65.92
+    },
+    {
+      "category": "Baby",
+      "gross_item_sales": 411764.89,
+      "units_sold": 3065,
+      "total_freight": 68353.11,
+      "average_item_price": 134.34,
+      "freight_to_price_ratio_pct": 16.6,
+      "sales_share_pct": 3.03,
+      "cumulative_share_pct": 68.95
+    },
+    {
+      "category": "Perfumery",
+      "gross_item_sales": 399124.87,
+      "units_sold": 3419,
+      "total_freight": 54213.84,
+      "average_item_price": 116.74,
+      "freight_to_price_ratio_pct": 13.58,
+      "sales_share_pct": 2.94,
+      "cumulative_share_pct": 71.89
+    },
+    {
+      "category": "Telephony",
+      "gross_item_sales": 323667.53,
+      "units_sold": 4545,
+      "total_freight": 71215.79,
+      "average_item_price": 71.21,
+      "freight_to_price_ratio_pct": 22.0,
+      "sales_share_pct": 2.38,
+      "cumulative_share_pct": 74.27
+    },
+    {
+      "category": "Office Furniture",
+      "gross_item_sales": 273960.7,
+      "units_sold": 1691,
+      "total_freight": 68571.95,
+      "average_item_price": 162.01,
+      "freight_to_price_ratio_pct": 25.03,
+      "sales_share_pct": 2.02,
+      "cumulative_share_pct": 76.29
+    },
+    {
+      "category": "Stationery",
+      "gross_item_sales": 230943.23,
+      "units_sold": 2517,
+      "total_freight": 46798.48,
+      "average_item_price": 91.75,
+      "freight_to_price_ratio_pct": 20.26,
+      "sales_share_pct": 1.7,
+      "cumulative_share_pct": 77.98
+    },
+    {
+      "category": "Computers",
+      "gross_item_sales": 222963.13,
+      "units_sold": 203,
+      "total_freight": 9836.3,
+      "average_item_price": 1098.34,
+      "freight_to_price_ratio_pct": 4.41,
+      "sales_share_pct": 1.64,
+      "cumulative_share_pct": 79.62
+    },
+    {
+      "category": "Pet Shop",
+      "gross_item_sales": 214315.41,
+      "units_sold": 1947,
+      "total_freight": 39561.24,
+      "average_item_price": 110.07,
+      "freight_to_price_ratio_pct": 18.46,
+      "sales_share_pct": 1.58,
+      "cumulative_share_pct": 81.2
+    },
+    {
+      "category": "Musical Instruments",
+      "gross_item_sales": 191498.88,
+      "units_sold": 680,
+      "total_freight": 18638.49,
+      "average_item_price": 281.62,
+      "freight_to_price_ratio_pct": 9.73,
+      "sales_share_pct": 1.41,
+      "cumulative_share_pct": 82.61
+    },
+    {
+      "category": "Small Appliances",
+      "gross_item_sales": 190648.58,
+      "units_sold": 679,
+      "total_freight": 16020.25,
+      "average_item_price": 280.78,
+      "freight_to_price_ratio_pct": 8.4,
+      "sales_share_pct": 1.4,
+      "cumulative_share_pct": 84.01
+    },
+    {
+      "category": "Uncategorized",
+      "gross_item_sales": 179535.28,
+      "units_sold": 1603,
+      "total_freight": 28169.81,
+      "average_item_price": 112.0,
+      "freight_to_price_ratio_pct": 15.69,
+      "sales_share_pct": 1.32,
+      "cumulative_share_pct": 85.33
+    },
+    {
+      "category": "Electronics",
+      "gross_item_sales": 160246.74,
+      "units_sold": 2767,
+      "total_freight": 46578.32,
+      "average_item_price": 57.91,
+      "freight_to_price_ratio_pct": 29.07,
+      "sales_share_pct": 1.18,
+      "cumulative_share_pct": 86.51
+    },
+    {
+      "category": "Consoles Games",
+      "gross_item_sales": 157465.22,
+      "units_sold": 1137,
+      "total_freight": 19828.02,
+      "average_item_price": 138.49,
+      "freight_to_price_ratio_pct": 12.59,
+      "sales_share_pct": 1.16,
+      "cumulative_share_pct": 87.67
+    },
+    {
+      "category": "Fashion Bags Accessories",
+      "gross_item_sales": 152823.54,
+      "units_sold": 2031,
+      "total_freight": 31450.0,
+      "average_item_price": 75.25,
+      "freight_to_price_ratio_pct": 20.58,
+      "sales_share_pct": 1.12,
+      "cumulative_share_pct": 88.8
+    },
+    {
+      "category": "Construction Tools Construction",
+      "gross_item_sales": 144677.59,
+      "units_sold": 929,
+      "total_freight": 20650.41,
+      "average_item_price": 155.73,
+      "freight_to_price_ratio_pct": 14.27,
+      "sales_share_pct": 1.06,
+      "cumulative_share_pct": 89.86
+    },
+    {
+      "category": "Luggage Accessories",
+      "gross_item_sales": 140429.98,
+      "units_sold": 1092,
+      "total_freight": 30445.23,
+      "average_item_price": 128.6,
+      "freight_to_price_ratio_pct": 21.68,
+      "sales_share_pct": 1.03,
+      "cumulative_share_pct": 90.89
+    },
+    {
+      "category": "Home Appliances 2",
+      "gross_item_sales": 113317.74,
+      "units_sold": 238,
+      "total_freight": 10600.18,
+      "average_item_price": 476.12,
+      "freight_to_price_ratio_pct": 9.35,
+      "sales_share_pct": 0.83,
+      "cumulative_share_pct": 91.73
+    },
+    {
+      "category": "Home Construction",
+      "gross_item_sales": 83088.12,
+      "units_sold": 604,
+      "total_freight": 13832.24,
+      "average_item_price": 137.56,
+      "freight_to_price_ratio_pct": 16.65,
+      "sales_share_pct": 0.61,
+      "cumulative_share_pct": 92.34
+    },
+    {
+      "category": "Home Appliances",
+      "gross_item_sales": 80171.53,
+      "units_sold": 771,
+      "total_freight": 14818.9,
+      "average_item_price": 103.98,
+      "freight_to_price_ratio_pct": 18.48,
+      "sales_share_pct": 0.59,
+      "cumulative_share_pct": 92.93
+    },
+    {
+      "category": "Agro Industry And Commerce",
+      "gross_item_sales": 72530.47,
+      "units_sold": 212,
+      "total_freight": 5843.6,
+      "average_item_price": 342.12,
+      "freight_to_price_ratio_pct": 8.06,
+      "sales_share_pct": 0.53,
+      "cumulative_share_pct": 93.46
+    },
+    {
+      "category": "Furniture Living Room",
+      "gross_item_sales": 68916.56,
+      "units_sold": 503,
+      "total_freight": 17968.17,
+      "average_item_price": 137.01,
+      "freight_to_price_ratio_pct": 26.07,
+      "sales_share_pct": 0.51,
+      "cumulative_share_pct": 93.97
+    },
+    {
+      "category": "Fixed Telephony",
+      "gross_item_sales": 59583.0,
+      "units_sold": 264,
+      "total_freight": 4637.81,
+      "average_item_price": 225.69,
+      "freight_to_price_ratio_pct": 7.78,
+      "sales_share_pct": 0.44,
+      "cumulative_share_pct": 94.41
+    },
+    {
+      "category": "Home Confort",
+      "gross_item_sales": 58572.04,
+      "units_sold": 434,
+      "total_freight": 8501.23,
+      "average_item_price": 134.96,
+      "freight_to_price_ratio_pct": 14.51,
+      "sales_share_pct": 0.43,
+      "cumulative_share_pct": 94.84
+    },
+    {
+      "category": "Air Conditioning",
+      "gross_item_sales": 55024.96,
+      "units_sold": 297,
+      "total_freight": 6749.23,
+      "average_item_price": 185.27,
+      "freight_to_price_ratio_pct": 12.27,
+      "sales_share_pct": 0.4,
+      "cumulative_share_pct": 95.24
+    },
+    {
+      "category": "Audio",
+      "gross_item_sales": 50688.5,
+      "units_sold": 364,
+      "total_freight": 5710.44,
+      "average_item_price": 139.25,
+      "freight_to_price_ratio_pct": 11.27,
+      "sales_share_pct": 0.37,
+      "cumulative_share_pct": 95.62
+    },
+    {
+      "category": "Small Appliances Home Oven And Coffee",
+      "gross_item_sales": 47445.71,
+      "units_sold": 76,
+      "total_freight": 2747.86,
+      "average_item_price": 624.29,
+      "freight_to_price_ratio_pct": 5.79,
+      "sales_share_pct": 0.35,
+      "cumulative_share_pct": 95.97
+    },
+    {
+      "category": "Books General Interest",
+      "gross_item_sales": 46856.88,
+      "units_sold": 553,
+      "total_freight": 9195.52,
+      "average_item_price": 84.73,
+      "freight_to_price_ratio_pct": 19.62,
+      "sales_share_pct": 0.34,
+      "cumulative_share_pct": 96.31
+    },
+    {
+      "category": "Kitchen Dining Laundry Garden Furniture",
+      "gross_item_sales": 46328.37,
+      "units_sold": 281,
+      "total_freight": 11999.43,
+      "average_item_price": 164.87,
+      "freight_to_price_ratio_pct": 25.9,
+      "sales_share_pct": 0.34,
+      "cumulative_share_pct": 96.65
+    },
+    {
+      "category": "Construction Tools Lights",
+      "gross_item_sales": 41080.0,
+      "units_sold": 304,
+      "total_freight": 7583.8,
+      "average_item_price": 135.13,
+      "freight_to_price_ratio_pct": 18.46,
+      "sales_share_pct": 0.3,
+      "cumulative_share_pct": 96.95
+    },
+    {
+      "category": "Construction Tools Safety",
+      "gross_item_sales": 40544.52,
+      "units_sold": 194,
+      "total_freight": 3919.1,
+      "average_item_price": 208.99,
+      "freight_to_price_ratio_pct": 9.67,
+      "sales_share_pct": 0.3,
+      "cumulative_share_pct": 97.25
+    },
+    {
+      "category": "Industry Commerce And Business",
+      "gross_item_sales": 39669.61,
+      "units_sold": 268,
+      "total_freight": 7884.68,
+      "average_item_price": 148.02,
+      "freight_to_price_ratio_pct": 19.88,
+      "sales_share_pct": 0.29,
+      "cumulative_share_pct": 97.54
+    },
+    {
+      "category": "Food",
+      "gross_item_sales": 29393.41,
+      "units_sold": 510,
+      "total_freight": 7271.03,
+      "average_item_price": 57.63,
+      "freight_to_price_ratio_pct": 24.74,
+      "sales_share_pct": 0.22,
+      "cumulative_share_pct": 97.76
+    },
+    {
+      "category": "Market Place",
+      "gross_item_sales": 28378.47,
+      "units_sold": 311,
+      "total_freight": 5456.06,
+      "average_item_price": 91.25,
+      "freight_to_price_ratio_pct": 19.23,
+      "sales_share_pct": 0.21,
+      "cumulative_share_pct": 97.97
+    },
+    {
+      "category": "Costruction Tools Garden",
+      "gross_item_sales": 25715.89,
+      "units_sold": 238,
+      "total_freight": 5311.4,
+      "average_item_price": 108.05,
+      "freight_to_price_ratio_pct": 20.65,
+      "sales_share_pct": 0.19,
+      "cumulative_share_pct": 98.16
+    },
+    {
+      "category": "Art",
+      "gross_item_sales": 24202.64,
+      "units_sold": 209,
+      "total_freight": 4045.17,
+      "average_item_price": 115.8,
+      "freight_to_price_ratio_pct": 16.71,
+      "sales_share_pct": 0.18,
+      "cumulative_share_pct": 98.34
+    },
+    {
+      "category": "Fashion Shoes",
+      "gross_item_sales": 23562.77,
+      "units_sold": 262,
+      "total_freight": 4918.87,
+      "average_item_price": 89.93,
+      "freight_to_price_ratio_pct": 20.88,
+      "sales_share_pct": 0.17,
+      "cumulative_share_pct": 98.51
+    },
+    {
+      "category": "Drinks",
+      "gross_item_sales": 22428.7,
+      "units_sold": 379,
+      "total_freight": 5741.25,
+      "average_item_price": 59.18,
+      "freight_to_price_ratio_pct": 25.6,
+      "sales_share_pct": 0.17,
+      "cumulative_share_pct": 98.67
+    },
+    {
+      "category": "Signaling And Security",
+      "gross_item_sales": 21509.23,
+      "units_sold": 199,
+      "total_freight": 6507.82,
+      "average_item_price": 108.09,
+      "freight_to_price_ratio_pct": 30.26,
+      "sales_share_pct": 0.16,
+      "cumulative_share_pct": 98.83
+    },
+    {
+      "category": "Furniture Bedroom",
+      "gross_item_sales": 20028.78,
+      "units_sold": 109,
+      "total_freight": 4632.23,
+      "average_item_price": 183.75,
+      "freight_to_price_ratio_pct": 23.13,
+      "sales_share_pct": 0.15,
+      "cumulative_share_pct": 98.98
+    },
+    {
+      "category": "Books Technical",
+      "gross_item_sales": 19096.06,
+      "units_sold": 267,
+      "total_freight": 4283.06,
+      "average_item_price": 71.52,
+      "freight_to_price_ratio_pct": 22.43,
+      "sales_share_pct": 0.14,
+      "cumulative_share_pct": 99.12
+    },
+    {
+      "category": "Costruction Tools Tools",
+      "gross_item_sales": 15903.95,
+      "units_sold": 103,
+      "total_freight": 2030.22,
+      "average_item_price": 154.41,
+      "freight_to_price_ratio_pct": 12.77,
+      "sales_share_pct": 0.12,
+      "cumulative_share_pct": 99.24
+    },
+    {
+      "category": "Food Drink",
+      "gross_item_sales": 15179.48,
+      "units_sold": 278,
+      "total_freight": 4507.99,
+      "average_item_price": 54.6,
+      "freight_to_price_ratio_pct": 29.7,
+      "sales_share_pct": 0.11,
+      "cumulative_share_pct": 99.35
+    },
+    {
+      "category": "Fashion Male Clothing",
+      "gross_item_sales": 10797.82,
+      "units_sold": 132,
+      "total_freight": 2152.41,
+      "average_item_price": 81.8,
+      "freight_to_price_ratio_pct": 19.93,
+      "sales_share_pct": 0.08,
+      "cumulative_share_pct": 99.43
+    },
+    {
+      "category": "Fashion Underwear Beach",
+      "gross_item_sales": 9541.55,
+      "units_sold": 131,
+      "total_freight": 1916.19,
+      "average_item_price": 72.84,
+      "freight_to_price_ratio_pct": 20.08,
+      "sales_share_pct": 0.07,
+      "cumulative_share_pct": 99.5
+    },
+    {
+      "category": "Christmas Supplies",
+      "gross_item_sales": 8800.82,
+      "units_sold": 153,
+      "total_freight": 3229.3,
+      "average_item_price": 57.52,
+      "freight_to_price_ratio_pct": 36.69,
+      "sales_share_pct": 0.06,
+      "cumulative_share_pct": 99.56
+    },
+    {
+      "category": "Tablets Printing Image",
+      "gross_item_sales": 7528.41,
+      "units_sold": 83,
+      "total_freight": 1226.2,
+      "average_item_price": 90.7,
+      "freight_to_price_ratio_pct": 16.29,
+      "sales_share_pct": 0.06,
+      "cumulative_share_pct": 99.62
+    },
+    {
+      "category": "Cine Photo",
+      "gross_item_sales": 6933.46,
+      "units_sold": 72,
+      "total_freight": 1256.2,
+      "average_item_price": 96.3,
+      "freight_to_price_ratio_pct": 18.12,
+      "sales_share_pct": 0.05,
+      "cumulative_share_pct": 99.67
+    },
+    {
+      "category": "Music",
+      "gross_item_sales": 6034.35,
+      "units_sold": 38,
+      "total_freight": 690.51,
+      "average_item_price": 158.8,
+      "freight_to_price_ratio_pct": 11.44,
+      "sales_share_pct": 0.04,
+      "cumulative_share_pct": 99.71
+    },
+    {
+      "category": "Dvds Blu Ray",
+      "gross_item_sales": 5999.39,
+      "units_sold": 64,
+      "total_freight": 1288.74,
+      "average_item_price": 93.74,
+      "freight_to_price_ratio_pct": 21.48,
+      "sales_share_pct": 0.04,
+      "cumulative_share_pct": 99.76
+    },
+    {
+      "category": "Books Imported",
+      "gross_item_sales": 4639.85,
+      "units_sold": 60,
+      "total_freight": 769.85,
+      "average_item_price": 77.33,
+      "freight_to_price_ratio_pct": 16.59,
+      "sales_share_pct": 0.03,
+      "cumulative_share_pct": 99.79
+    },
+    {
+      "category": "Party Supplies",
+      "gross_item_sales": 4485.18,
+      "units_sold": 43,
+      "total_freight": 827.97,
+      "average_item_price": 104.31,
+      "freight_to_price_ratio_pct": 18.46,
+      "sales_share_pct": 0.03,
+      "cumulative_share_pct": 99.83
+    },
+    {
+      "category": "Furniture Mattress And Upholstery",
+      "gross_item_sales": 4368.08,
+      "units_sold": 38,
+      "total_freight": 1630.46,
+      "average_item_price": 114.95,
+      "freight_to_price_ratio_pct": 37.33,
+      "sales_share_pct": 0.03,
+      "cumulative_share_pct": 99.86
+    },
+    {
+      "category": "Kitchen Food Processors",
+      "gross_item_sales": 3968.53,
+      "units_sold": 15,
+      "total_freight": 309.76,
+      "average_item_price": 264.57,
+      "freight_to_price_ratio_pct": 7.81,
+      "sales_share_pct": 0.03,
+      "cumulative_share_pct": 99.89
+    },
+    {
+      "category": "Fashio Female Clothing",
+      "gross_item_sales": 2803.64,
+      "units_sold": 48,
+      "total_freight": 621.75,
+      "average_item_price": 58.41,
+      "freight_to_price_ratio_pct": 22.18,
+      "sales_share_pct": 0.02,
+      "cumulative_share_pct": 99.91
+    },
+    {
+      "category": "Fashion Sport",
+      "gross_item_sales": 2119.51,
+      "units_sold": 30,
+      "total_freight": 578.13,
+      "average_item_price": 70.65,
+      "freight_to_price_ratio_pct": 27.28,
+      "sales_share_pct": 0.02,
+      "cumulative_share_pct": 99.92
+    },
+    {
+      "category": "La Cuisine",
+      "gross_item_sales": 2054.99,
+      "units_sold": 14,
+      "total_freight": 333.55,
+      "average_item_price": 146.78,
+      "freight_to_price_ratio_pct": 16.23,
+      "sales_share_pct": 0.02,
+      "cumulative_share_pct": 99.94
+    },
+    {
+      "category": "Arts And Craftmanship",
+      "gross_item_sales": 1814.01,
+      "units_sold": 24,
+      "total_freight": 370.13,
+      "average_item_price": 75.58,
+      "freight_to_price_ratio_pct": 20.4,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.95
+    },
+    {
+      "category": "Diapers And Hygiene",
+      "gross_item_sales": 1567.59,
+      "units_sold": 39,
+      "total_freight": 573.68,
+      "average_item_price": 40.19,
+      "freight_to_price_ratio_pct": 36.6,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.96
+    },
+    {
+      "category": "PC Gamer",
+      "gross_item_sales": 1545.95,
+      "units_sold": 9,
+      "total_freight": 133.57,
+      "average_item_price": 171.77,
+      "freight_to_price_ratio_pct": 8.64,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.97
+    },
+    {
+      "category": "Flowers",
+      "gross_item_sales": 1110.04,
+      "units_sold": 33,
+      "total_freight": 488.87,
+      "average_item_price": 33.64,
+      "freight_to_price_ratio_pct": 44.04,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.98
+    },
+    {
+      "category": "Home Comfort 2",
+      "gross_item_sales": 760.27,
+      "units_sold": 30,
+      "total_freight": 410.31,
+      "average_item_price": 25.34,
+      "freight_to_price_ratio_pct": 53.97,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.99
+    },
+    {
+      "category": "Cds Dvds Musicals",
+      "gross_item_sales": 730.0,
+      "units_sold": 14,
+      "total_freight": 224.99,
+      "average_item_price": 52.14,
+      "freight_to_price_ratio_pct": 30.82,
+      "sales_share_pct": 0.01,
+      "cumulative_share_pct": 99.99
+    },
+    {
+      "category": "Fashion Childrens Clothes",
+      "gross_item_sales": 569.85,
+      "units_sold": 8,
+      "total_freight": 95.51,
+      "average_item_price": 71.23,
+      "freight_to_price_ratio_pct": 16.76,
+      "sales_share_pct": 0.0,
+      "cumulative_share_pct": 100.0
+    },
+    {
+      "category": "Security And Services",
+      "gross_item_sales": 283.29,
+      "units_sold": 2,
+      "total_freight": 41.22,
+      "average_item_price": 141.64,
+      "freight_to_price_ratio_pct": 14.55,
+      "sales_share_pct": 0.0,
+      "cumulative_share_pct": 100.0
+    }
+  ]
+}

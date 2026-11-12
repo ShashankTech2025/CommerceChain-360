@@ -1,0 +1,76 @@
+{
+  "segments": [
+    {
+      "segment": "Regular Customers",
+      "customer_count": 22976,
+      "customer_share_pct": 23.91,
+      "avg_recency_days": 183.7,
+      "avg_frequency": 1.0,
+      "total_monetary": 3154048.97,
+      "avg_monetary": 137.28
+    },
+    {
+      "segment": "At Risk",
+      "customer_count": 22975,
+      "customer_share_pct": 23.91,
+      "avg_recency_days": 445.7,
+      "avg_frequency": 1.05,
+      "total_monetary": 3292419.07,
+      "avg_monetary": 143.3
+    },
+    {
+      "segment": "Potential Loyalists",
+      "customer_count": 19306,
+      "customer_share_pct": 20.09,
+      "avg_recency_days": 219.0,
+      "avg_frequency": 1.04,
+      "total_monetary": 2650574.63,
+      "avg_monetary": 137.29
+    },
+    {
+      "segment": "Inactive / Low Engagement",
+      "customer_count": 15463,
+      "customer_share_pct": 16.09,
+      "avg_recency_days": 446.7,
+      "avg_frequency": 1.0,
+      "total_monetary": 2160899.59,
+      "avg_monetary": 139.75
+    },
+    {
+      "segment": "Loyal / Best Customers",
+      "customer_count": 15376,
+      "customer_share_pct": 16.0,
+      "avg_recency_days": 139.8,
+      "avg_frequency": 1.1,
+      "total_monetary": 2333701.44,
+      "avg_monetary": 151.78
+    }
+  ],
+  "frequency_distribution": [
+    {
+      "order_count": 1,
+      "customer_count": 93099,
+      "percentage": 96.88
+    },
+    {
+      "order_count": 2,
+      "customer_count": 2745,
+      "percentage": 2.86
+    },
+    {
+      "order_count": 3,
+      "customer_count": 203,
+      "percentage": 0.21
+    },
+    {
+      "order_count": 4,
+      "customer_count": 30,
+      "percentage": 0.03
+    },
+    {
+      "order_count": 5,
+      "customer_count": 8,
+      "percentage": 0.01
+    }
+  ]
+}

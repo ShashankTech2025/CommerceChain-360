@@ -1,0 +1,11 @@
+{
+  "gross_item_sales": 13591643.7,
+  "total_orders": 99441,
+  "delivered_orders": 96478,
+  "fulfillment_rate_pct": 97.02,
+  "average_order_value": 136.68,
+  "unique_customers": 96096,
+  "on_time_delivery_rate_pct": 91.89,
+  "delivered_with_dates": 96470,
+  "ontime_orders": 88644
+}

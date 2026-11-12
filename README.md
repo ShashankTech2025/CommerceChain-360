@@ -1,12 +1,13 @@
 # COMMERCECHAIN 360
 ## Enterprise E-Commerce Sales, Supply Chain & Delivery Intelligence Platform
 
-[![Vercel Deployment](https://img.shields.io/badge/Vercel_Frontend-commercechain--360.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://commercechain-360.vercel.app)
-[![Render Backend](https://img.shields.io/badge/Render_Backend-commercechain--360--api.onrender.com-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://commercechain-360-api.onrender.com/api/health)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-CommerceChain--360-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShashankTech2025/CommerceChain-360)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![React](https://img.shields.io/badge/React-18.3+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-6.0+-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Apache ECharts](https://img.shields.io/badge/Apache_ECharts-5.5+-AA344D?style=for-the-badge&logo=apache-echarts&logoColor=white)](https://echarts.apache.org/)
+[![PyArrow](https://img.shields.io/badge/PyArrow-Parquet_Caching-D22128?style=for-the-badge)](https://arrow.apache.org/)
 [![Test Suite](https://img.shields.io/badge/Pytest-35_Tests_Passed-10B981?style=for-the-badge&logo=pytest&logoColor=white)](#quality-assurance--testing)
 
 ---

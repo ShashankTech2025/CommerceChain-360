@@ -1,0 +1,119 @@
+{
+  "payment_methods": [
+    {
+      "payment_type": "Credit Card",
+      "transactions": 76795,
+      "total_value": 12542084.19,
+      "average_value": 163.32,
+      "value_share_pct": 78.34
+    },
+    {
+      "payment_type": "Boleto",
+      "transactions": 19784,
+      "total_value": 2869361.27,
+      "average_value": 145.03,
+      "value_share_pct": 17.92
+    },
+    {
+      "payment_type": "Voucher",
+      "transactions": 5775,
+      "total_value": 379436.87,
+      "average_value": 65.7,
+      "value_share_pct": 2.37
+    },
+    {
+      "payment_type": "Debit Card",
+      "transactions": 1529,
+      "total_value": 217989.79,
+      "average_value": 142.57,
+      "value_share_pct": 1.36
+    },
+    {
+      "payment_type": "Unknown",
+      "transactions": 3,
+      "total_value": 0.0,
+      "average_value": 0.0,
+      "value_share_pct": 0.0
+    }
+  ],
+  "installments": [
+    {
+      "installments": 0,
+      "transactions": 2,
+      "avg_value": 94.31,
+      "total_value": 188.63
+    },
+    {
+      "installments": 1,
+      "transactions": 52546,
+      "avg_value": 112.42,
+      "total_value": 5907233.36
+    },
+    {
+      "installments": 2,
+      "transactions": 12413,
+      "avg_value": 127.23,
+      "total_value": 1579283.03
+    },
+    {
+      "installments": 3,
+      "transactions": 10461,
+      "avg_value": 142.54,
+      "total_value": 1491103.8
+    },
+    {
+      "installments": 4,
+      "transactions": 7098,
+      "avg_value": 163.98,
+      "total_value": 1163907.61
+    },
+    {
+      "installments": 5,
+      "transactions": 5239,
+      "avg_value": 183.47,
+      "total_value": 961174.3
+    },
+    {
+      "installments": 6,
+      "transactions": 3920,
+      "avg_value": 209.85,
+      "total_value": 822611.81
+    },
+    {
+      "installments": 7,
+      "transactions": 1626,
+      "avg_value": 187.67,
+      "total_value": 305157.39
+    },
+    {
+      "installments": 8,
+      "transactions": 4268,
+      "avg_value": 307.74,
+      "total_value": 1313423.34
+    },
+    {
+      "installments": 9,
+      "transactions": 644,
+      "avg_value": 203.44,
+      "total_value": 131015.92
+    },
+    {
+      "installments": 10,
+      "transactions": 5328,
+      "avg_value": 415.09,
+      "total_value": 2211577.34
+    },
+    {
+      "installments": 11,
+      "transactions": 23,
+      "avg_value": 124.93,
+      "total_value": 2873.44
+    },
+    {
+      "installments": 12,
+      "transactions": 133,
+      "avg_value": 321.68,
+      "total_value": 42783.24
+    }
+  ]
+}

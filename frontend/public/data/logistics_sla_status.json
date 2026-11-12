@@ -1,0 +1,22 @@
+[
+  {
+    "status": "On Time / Early",
+    "count": 88644,
+    "percentage": 89.14
+  },
+  {
+    "status": "Late",
+    "count": 7826,
+    "percentage": 7.87
+  },
+  {
+    "status": "Undelivered",
+    "count": 2963,
+    "percentage": 2.98
+  },
+  {
+    "status": "Delivered (No SLA Date)",
+    "count": 8,
+    "percentage": 0.01
+  }
+]

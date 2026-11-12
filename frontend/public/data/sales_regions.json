@@ -1,0 +1,220 @@
+{
+  "regions": [
+    {
+      "state": "SP",
+      "gross_item_sales": 5202955.05,
+      "total_orders": 41746,
+      "unique_customers": 40302,
+      "average_order_value": 124.63,
+      "sales_share_pct": 38.28
+    },
+    {
+      "state": "RJ",
+      "gross_item_sales": 1824092.67,
+      "total_orders": 12852,
+      "unique_customers": 12384,
+      "average_order_value": 141.93,
+      "sales_share_pct": 13.42
+    },
+    {
+      "state": "MG",
+      "gross_item_sales": 1585308.03,
+      "total_orders": 11635,
+      "unique_customers": 11259,
+      "average_order_value": 136.25,
+      "sales_share_pct": 11.66
+    },
+    {
+      "state": "RS",
+      "gross_item_sales": 750304.02,
+      "total_orders": 5466,
+      "unique_customers": 5277,
+      "average_order_value": 137.27,
+      "sales_share_pct": 5.52
+    },
+    {
+      "state": "PR",
+      "gross_item_sales": 683083.76,
+      "total_orders": 5045,
+      "unique_customers": 4882,
+      "average_order_value": 135.4,
+      "sales_share_pct": 5.03
+    },
+    {
+      "state": "SC",
+      "gross_item_sales": 520553.34,
+      "total_orders": 3637,
+      "unique_customers": 3534,
+      "average_order_value": 143.13,
+      "sales_share_pct": 3.83
+    },
+    {
+      "state": "BA",
+      "gross_item_sales": 511349.99,
+      "total_orders": 3380,
+      "unique_customers": 3277,
+      "average_order_value": 151.29,
+      "sales_share_pct": 3.76
+    },
+    {
+      "state": "DF",
+      "gross_item_sales": 302603.94,
+      "total_orders": 2140,
+      "unique_customers": 2075,
+      "average_order_value": 141.4,
+      "sales_share_pct": 2.23
+    },
+    {
+      "state": "GO",
+      "gross_item_sales": 294591.95,
+      "total_orders": 2020,
+      "unique_customers": 1952,
+      "average_order_value": 145.84,
+      "sales_share_pct": 2.17
+    },
+    {
+      "state": "ES",
+      "gross_item_sales": 275037.31,
+      "total_orders": 2033,
+      "unique_customers": 1964,
+      "average_order_value": 135.29,
+      "sales_share_pct": 2.02
+    },
+    {
+      "state": "PE",
+      "gross_item_sales": 262788.03,
+      "total_orders": 1652,
+      "unique_customers": 1609,
+      "average_order_value": 159.07,
+      "sales_share_pct": 1.93
+    },
+    {
+      "state": "CE",
+      "gross_item_sales": 227254.71,
+      "total_orders": 1336,
+      "unique_customers": 1313,
+      "average_order_value": 170.1,
+      "sales_share_pct": 1.67
+    },
+    {
+      "state": "PA",
+      "gross_item_sales": 178947.81,
+      "total_orders": 975,
+      "unique_customers": 949,
+      "average_order_value": 183.54,
+      "sales_share_pct": 1.32
+    },
+    {
+      "state": "MT",
+      "gross_item_sales": 156453.53,
+      "total_orders": 907,
+      "unique_customers": 876,
+      "average_order_value": 172.5,
+      "sales_share_pct": 1.15
+    },
+    {
+      "state": "MA",
+      "gross_item_sales": 119648.22,
+      "total_orders": 747,
+      "unique_customers": 726,
+      "average_order_value": 160.17,
+      "sales_share_pct": 0.88
+    },
+    {
+      "state": "MS",
+      "gross_item_sales": 116812.64,
+      "total_orders": 715,
+      "unique_customers": 694,
+      "average_order_value": 163.37,
+      "sales_share_pct": 0.86
+    },
+    {
+      "state": "PB",
+      "gross_item_sales": 115268.08,
+      "total_orders": 536,
+      "unique_customers": 519,
+      "average_order_value": 215.05,
+      "sales_share_pct": 0.85
+    },
+    {
+      "state": "PI",
+      "gross_item_sales": 86914.08,
+      "total_orders": 495,
+      "unique_customers": 482,
+      "average_order_value": 175.58,
+      "sales_share_pct": 0.64
+    },
+    {
+      "state": "RN",
+      "gross_item_sales": 83034.98,
+      "total_orders": 485,
+      "unique_customers": 474,
+      "average_order_value": 171.21,
+      "sales_share_pct": 0.61
+    },
+    {
+      "state": "AL",
+      "gross_item_sales": 80314.81,
+      "total_orders": 413,
+      "unique_customers": 401,
+      "average_order_value": 194.47,
+      "sales_share_pct": 0.59
+    },
+    {
+      "state": "SE",
+      "gross_item_sales": 58920.85,
+      "total_orders": 350,
+      "unique_customers": 342,
+      "average_order_value": 168.35,
+      "sales_share_pct": 0.43
+    },
+    {
+      "state": "TO",
+      "gross_item_sales": 49621.74,
+      "total_orders": 280,
+      "unique_customers": 273,
+      "average_order_value": 177.22,
+      "sales_share_pct": 0.37
+    },
+    {
+      "state": "RO",
+      "gross_item_sales": 46140.64,
+      "total_orders": 253,
+      "unique_customers": 240,
+      "average_order_value": 182.37,
+      "sales_share_pct": 0.34
+    },
+    {
+      "state": "AM",
+      "gross_item_sales": 22356.84,
+      "total_orders": 148,
+      "unique_customers": 143,
+      "average_order_value": 151.06,
+      "sales_share_pct": 0.16
+    },
+    {
+      "state": "AC",
+      "gross_item_sales": 15982.95,
+      "total_orders": 81,
+      "unique_customers": 77,
+      "average_order_value": 197.32,
+      "sales_share_pct": 0.12
+    },
+    {
+      "state": "AP",
+      "gross_item_sales": 13474.3,
+      "total_orders": 68,
+      "unique_customers": 67,
+      "average_order_value": 198.15,
+      "sales_share_pct": 0.1
+    },
+    {
+      "state": "RR",
+      "gross_item_sales": 7829.43,
+      "total_orders": 46,
+      "unique_customers": 45,
+      "average_order_value": 170.21,
+      "sales_share_pct": 0.06
+    }
+  ]
+}

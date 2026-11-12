@@ -1,0 +1,42 @@
+[
+  {
+    "status": "delivered",
+    "count": 96478,
+    "percentage": 97.02
+  },
+  {
+    "status": "shipped",
+    "count": 1107,
+    "percentage": 1.11
+  },
+  {
+    "status": "canceled",
+    "count": 625,
+    "percentage": 0.63
+  },
+  {
+    "status": "unavailable",
+    "count": 609,
+    "percentage": 0.61
+  },
+  {
+    "status": "invoiced",
+    "count": 314,
+    "percentage": 0.32
+  },
+  {
+    "status": "processing",
+    "count": 301,
+    "percentage": 0.3
+  },
+  {
+    "status": "created",
+    "count": 5,
+    "percentage": 0.01
+  },
+  {
+    "status": "approved",
+    "count": 2,
+    "percentage": 0.0
+  }
+]
