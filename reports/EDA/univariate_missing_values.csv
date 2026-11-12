@@ -1,0 +1,112 @@
+Dataset,Column,Missing_Count,Missing_Percentage
+Reviews,review_comment_title,87658,88.34
+Reviews,review_title_length,87658,88.34
+Reviews,review_comment_message,58274,58.73
+Reviews,review_message_length,58274,58.73
+Orders,order_delivered_customer_date,2965,2.98
+Orders,delivery_delay_days,2965,2.98
+Orders,delivery_days,2965,2.98
+Products,product_name_lenght,610,1.85
+Products,product_category_name,610,1.85
+Products,product_photos_qty,610,1.85
+Products,product_description_lenght,610,1.85
+Orders,order_delivered_carrier_date,1783,1.79
+Orders,order_approved_at,160,0.16
+Products,product_weight_g,2,0.01
+Products,dimensional_weight_kg,2,0.01
+Products,product_length_cm,2,0.01
+Products,product_height_cm,2,0.01
+Products,product_width_cm,2,0.01
+Products,product_volume_cm3,2,0.01
+Order Items,duplicate_composite_key,0,0.0
+Order Items,invalid_price,0,0.0
+Order Items,freight_value,0,0.0
+Order Items,price,0,0.0
+Order Items,total_item_value,0,0.0
+Order Items,data_quality_status,0,0.0
+Payments,order_id,0,0.0
+Payments,payment_sequential,0,0.0
+Payments,payment_type,0,0.0
+Payments,payment_installments,0,0.0
+Order Items,invalid_freight,0,0.0
+Order Items,invalid_identifier,0,0.0
+Order Items,seller_id,0,0.0
+Order Items,product_id,0,0.0
+Order Items,shipping_limit_date,0,0.0
+Customers,customer_id,0,0.0
+Customers,customer_city,0,0.0
+Customers,customer_state,0,0.0
+Customers,customer_unique_id,0,0.0
+Customers,customer_zip_code_prefix,0,0.0
+Geolocation,geolocation_lng,0,0.0
+Geolocation,geolocation_city,0,0.0
+Geolocation,geolocation_state,0,0.0
+Geolocation,coordinate_status,0,0.0
+Order Items,order_id,0,0.0
+Order Items,order_item_id,0,0.0
+Geolocation,geolocation_zip_code_prefix,0,0.0
+Geolocation,geolocation_lat,0,0.0
+Reviews,duplicate_review_id,0,0.0
+Reviews,invalid_review_score,0,0.0
+Reviews,invalid_identifier,0,0.0
+Reviews,review_answer_timestamp,0,0.0
+Reviews,review_creation_date,0,0.0
+Reviews,review_score,0,0.0
+Reviews,review_id,0,0.0
+Reviews,order_id,0,0.0
+Payments,invalid_installments,0,0.0
+Payments,zero_payment_value,0,0.0
+Payments,data_quality_status,0,0.0
+Payments,invalid_payment_type,0,0.0
+Payments,invalid_payment_value,0,0.0
+Payments,duplicate_composite_key,0,0.0
+Payments,payment_value,0,0.0
+Payments,invalid_identifier,0,0.0
+Order Items,invalid_shipping_date,0,0.0
+Orders,invalid_identifier,0,0.0
+Orders,order_status,0,0.0
+Orders,order_estimated_delivery_date,0,0.0
+Orders,customer_id,0,0.0
+Reviews,invalid_review_answer_date,0,0.0
+Reviews,data_quality_status,0,0.0
+Orders,invalid_order_status,0,0.0
+Orders,estimated_delivery_days,0,0.0
+Orders,delivery_before_purchase,0,0.0
+Orders,approval_before_purchase,0,0.0
+Orders,order_purchase_timestamp,0,0.0
+Orders,order_id,0,0.0
+Reviews,answer_before_creation,0,0.0
+Reviews,multiple_reviews_per_order,0,0.0
+Reviews,invalid_review_creation_date,0,0.0
+Orders,data_quality_status,0,0.0
+Orders,delivery_performance,0,0.0
+Products,product_id,0,0.0
+Orders,invalid_purchase_date,0,0.0
+Orders,carrier_before_approval,0,0.0
+Products,invalid_product_weight_g,0,0.0
+Products,duplicate_product_id,0,0.0
+Products,invalid_product_id,0,0.0
+Products,invalid_product_height_cm,0,0.0
+Products,invalid_product_length_cm,0,0.0
+Products,invalid_product_width_cm,0,0.0
+Products,invalid_photos_qty,0,0.0
+Products,invalid_description_length,0,0.0
+Products,invalid_name_length,0,0.0
+Products,data_quality_status,0,0.0
+Sellers,seller_id,0,0.0
+Sellers,seller_zip_code_prefix,0,0.0
+Sellers,seller_city,0,0.0
+Sellers,seller_state,0,0.0
+Sellers,invalid_seller_id,0,0.0
+Sellers,duplicate_seller_id,0,0.0
+Sellers,invalid_zip_prefix,0,0.0
+Sellers,invalid_city,0,0.0
+Sellers,invalid_state,0,0.0
+Sellers,data_quality_status,0,0.0
+Category Translation,product_category_name,0,0.0
+Category Translation,product_category_name_english,0,0.0
+Category Translation,missing_category,0,0.0
+Category Translation,missing_english_translation,0,0.0
+Category Translation,duplicate_category_key,0,0.0
+Category Translation,duplicate_english_translation,0,0.0
+Category Translation,data_quality_status,0,0.0

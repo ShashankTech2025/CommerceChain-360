@@ -1,0 +1,10 @@
+Dataset,Rows,Columns,Memory_MB
+Customers,99441,5,11.03
+Geolocation,738332,6,60.23
+Order Items,112650,14,19.12
+Payments,103886,12,9.99
+Reviews,99224,17,17.66
+Orders,99441,19,19.33
+Products,32951,21,4.93
+Sellers,3095,10,0.28
+Category Translation,71,7,0.0

@@ -1,0 +1,7 @@
+Relationship,Records Checked,Unmatched Records,Match Percentage
+orders.customer_id,99441,0,100.0
+order_items.order_id,112650,0,100.0
+order_items.product_id,112650,0,100.0
+order_items.seller_id,112650,0,100.0
+payments.order_id,103886,0,100.0
+reviews.order_id,99224,0,100.0
