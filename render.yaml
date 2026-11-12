@@ -11,3 +11,4 @@ services:
         value: "False"
       - key: CORS_ORIGINS
         value: "https://commercechain-360.vercel.app,http://localhost:5173"
+
